@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>003 - Login Success and Redirect To Dashboard</name>
+   <tag>saya</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>317805b6-a813-4006-845c-b7121278de9e</testCaseGuid>
+</TestCaseEntity>
